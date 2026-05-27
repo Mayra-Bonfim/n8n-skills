@@ -1,5 +1,17 @@
 # CLAUDE.md
 
+## 🔴 REGRA ABSOLUTA — NUNCA INVENTAR
+**PROIBIDO** inventar, assumir ou preencher qualquer informação sem certeza comprovada:
+- Nomes de clientes, pessoas, empresas
+- Datas de decisões, eventos, entregas
+- Conteúdo de documentos ou registros
+- Qualquer dado que não foi explicitamente fornecido ou verificado
+
+**Se não sabe: PERGUNTE. Nunca invente.**
+Violação desta regra é inadmissível — o trabalho aqui é sério e envolve pessoas reais.
+
+---
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
